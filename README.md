@@ -79,9 +79,9 @@ You can host the website on:
 ## 📩 Contact
 
 To connect, collaborate or contribute:
-- ✉️ Email: yourname@example.com
-- 🔗 GitHub: [github.com/yourprofile](https://github.com/yourprofile)
-- 🌐 Website: [www.programmerspace.dev](https://www.programmerspace.dev)
+- ✉️ Email: bakirdawoodbusiness@gmail.com
+- 🔗 GitHub: [github.com/yourprofile](https://github.com/bakirdawood)
+- 🌐 Website: [www.programmerspace.dev](https://www.programmerspace.in)
 
 ---
 
