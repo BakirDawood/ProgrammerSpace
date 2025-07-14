@@ -9,7 +9,11 @@ const Footer: React.FC = () => {
           {/* Brand */}
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <Code className="h-8 w-8 text-blue-500" />
+              <img 
+                src="/pglogot.png" 
+                alt="Programmer Space Logo" 
+                className="h-8 w-8 object-contain"
+              />
               <span className="text-2xl font-bold">Programmer Space</span>
             </div>
             <p className="text-gray-400 mb-6 max-w-md">

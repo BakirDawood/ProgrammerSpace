@@ -33,7 +33,11 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
-            <Code className="h-8 w-8 text-blue-500" />
+            <img 
+              src="/pglogot.png" 
+              alt="Programmer Space Logo" 
+              className="h-8 w-8 object-contain"
+            />
             <span className="text-xl font-bold text-gray-900 dark:text-white">
               Programmer Space
             </span>
